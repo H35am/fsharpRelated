@@ -1,0 +1,18 @@
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\haskellOpdracht\App1\App1\bin\Debug\App1.exe.config
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\haskellOpdracht\App1\App1\bin\Debug\App1.XML
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\haskellOpdracht\App1\App1\bin\Debug\App1.exe
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\haskellOpdracht\App1\App1\bin\Debug\App1.pdb
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\haskellOpdracht\App1\App1\bin\Debug\FSharp.Core.dll
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\haskellOpdracht\App1\App1\bin\Debug\System.ValueTuple.dll
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\haskellOpdracht\App1\App1\bin\Debug\FSharp.Core.xml
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\haskellOpdracht\App1\App1\obj\Debug\App1.exe
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\haskellOpdracht\App1\App1\obj\Debug\App1.pdb
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\TestOpdracht\App1\App1\bin\Debug\App1.exe.config
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\TestOpdracht\App1\App1\bin\Debug\App1.XML
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\TestOpdracht\App1\App1\bin\Debug\App1.exe
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\TestOpdracht\App1\App1\bin\Debug\App1.pdb
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\TestOpdracht\App1\App1\bin\Debug\FSharp.Core.dll
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\TestOpdracht\App1\App1\bin\Debug\System.ValueTuple.dll
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\TestOpdracht\App1\App1\bin\Debug\FSharp.Core.xml
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\TestOpdracht\App1\App1\obj\Debug\App1.exe
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\TestOpdracht\App1\App1\obj\Debug\App1.pdb

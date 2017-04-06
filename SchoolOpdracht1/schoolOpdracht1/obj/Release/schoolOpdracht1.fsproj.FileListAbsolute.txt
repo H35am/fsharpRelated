@@ -1,0 +1,8 @@
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\schoolOpdracht1\schoolOpdracht1\bin\Release\schoolOpdracht1.exe.config
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\schoolOpdracht1\schoolOpdracht1\bin\Release\schoolOpdracht1.XML
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\schoolOpdracht1\schoolOpdracht1\bin\Release\schoolOpdracht1.exe
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\schoolOpdracht1\schoolOpdracht1\bin\Release\schoolOpdracht1.pdb
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\schoolOpdracht1\schoolOpdracht1\bin\Release\FSharp.Core.dll
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\schoolOpdracht1\schoolOpdracht1\bin\Release\FSharp.Core.xml
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\schoolOpdracht1\schoolOpdracht1\obj\Release\schoolOpdracht1.exe
+E:\Hesam files\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\schoolOpdracht1\schoolOpdracht1\obj\Release\schoolOpdracht1.pdb
