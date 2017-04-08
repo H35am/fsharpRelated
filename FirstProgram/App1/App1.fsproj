@@ -54,6 +54,7 @@
   </Choose>
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
+    <Compile Include="Model.fs" />
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="FirstProgram.fs" />
     <Compile Include="Program.fs" />

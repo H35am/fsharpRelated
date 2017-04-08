@@ -60,23 +60,32 @@
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
+    <Compile Include="Interpreter.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="FSharp.Core, Version=4.4.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-      <Private>True</Private>
+    <Reference Include="FSharp.Core">
+      <HintPath>..\packages\FSharp.Core.4.1.2\lib\net45\FSharp.Core.dll</HintPath>
     </Reference>
     <Reference Include="FsLexYacc.Runtime">
-      <HintPath>..\..\..\..\Dropbox\Set Theory\Set calculator\Source\Set calculator\packages\FsLexYacc.Runtime.6.1.0\lib\net40\FsLexYacc.Runtime.dll</HintPath>
+      <HintPath>..\packages\FsLexYacc.Runtime.7.0.5\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid10+MonoTouch10\FsLexYacc.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Numerics" />
+    <Reference Include="System.ValueTuple">
+      <HintPath>..\packages\System.ValueTuple.4.3.0\lib\netstandard1.0\System.ValueTuple.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Programs\Programs.csproj">
+      <Name>Programs</Name>
+      <Project>{9295fe34-e52c-46c4-aa16-dbfeb98cb479}</Project>
+      <Private>True</Private>
+    </ProjectReference>
     <ProjectReference Include="..\SVMParser\SVMParser.fsproj">
       <Name>SVMParser</Name>
       <Project>{2634f623-9a00-41d3-b0d7-d2022cb7a5a0}</Project>

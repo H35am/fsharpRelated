@@ -1,0 +1,8 @@
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\Programs\bin\Debug\Programs\ifthenelse.svm
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\Programs\bin\Debug\Programs\initList.svm
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\Programs\bin\Debug\Programs\sumList.svm
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\Programs\bin\Debug\Programs\squareRoot.svm
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\Programs\bin\Debug\Programs.dll
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\Programs\bin\Debug\Programs.pdb
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\Programs\obj\Debug\Programs.dll
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\Programs\obj\Debug\Programs.pdb

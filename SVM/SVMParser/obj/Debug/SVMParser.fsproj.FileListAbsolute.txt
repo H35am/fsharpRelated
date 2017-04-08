@@ -1,0 +1,17 @@
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\bin\Debug\Programs\ifthenelse.svm
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\bin\Debug\Programs\initList.svm
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\bin\Debug\Programs\sumList.svm
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\bin\Debug\Programs\squareRoot.svm
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\bin\Debug\SVMParser.dll.config
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\bin\Debug\SVMParser.XML
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\bin\Debug\SVMParser.dll
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\bin\Debug\SVMParser.pdb
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\bin\Debug\FSharp.Core.dll
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\bin\Debug\FsLexYacc.Runtime.dll
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\bin\Debug\Programs.dll
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\bin\Debug\Programs.pdb
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\bin\Debug\FSharp.Core.xml
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\bin\Debug\FsLexYacc.Runtime.xml
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\obj\Debug\SVMParser.fsprojResolveAssemblyReference.cache
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\obj\Debug\SVMParser.dll
+X:\Dropbox\[SCHOOL]\LJ 3\P3\INFSEN21-1\SVM\SVMParser\obj\Debug\SVMParser.pdb
